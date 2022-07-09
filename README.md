@@ -1,0 +1,1 @@
+By the end of this project I am expected to have a complete hands on knowledge on all the html content I have acquired.
