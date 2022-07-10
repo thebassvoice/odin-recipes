@@ -1,0 +1,8 @@
+.body {background-color: rgb(223, 223, 255);
+color: rgb(43, 43, 100);}
+/*.list {background-color: aliceblue;}*/
+#heading,#noodles,#nshima,#porridge {text-align: center;
+font-size: 35px;}
+#porridge-picture {width: 300px;
+height: auto;}
+
